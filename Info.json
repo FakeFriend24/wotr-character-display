@@ -1,0 +1,10 @@
+{
+  "Id": "CharacterDisplayWotR",
+  "DisplayName": "WotR-CharacterDisplay",
+  "Author": "JesusLives24",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.23.0",
+  "EntryMethod": "CharacterDisplayWotR.Main.Load",
+  "HomePage": "https://github.com/FakeFriend24/wotr-character-display",
+  "Repository": "https://raw.githubusercontent.com/FakeFriend24/wotr-character-display/master/Repository.json"
+}
